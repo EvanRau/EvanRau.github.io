@@ -1,26 +1,22 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Evan Rau",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://avatars.githubusercontent.com/u/60959320?v=4",
+    "email": "evanrau@hawaii.edu",
+    "phone": "702-755-0122",
+    "website": "https://EvanRau.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "location": { "address": "", "postalCode": "", "city": "Henderson", "countryCode": "USA", "region": "Nevada" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "EvanRau", "url": "http://github.com/EvanRau" },
+      { "network": "linkedin", "username": "Evan Rau", "url": "https://www.linkedin.com/in/evan-rau-95b0762ab/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Video Games" },
+    { "name": "Computer Engineering" },
+    { "name": "Golfing" }
   ],
   "skills": [
     {
