@@ -7,6 +7,8 @@ date: 2024-01-18
 published: true
 labels:
   - Software Engineering
+  - C++
+  - Python
 ---
 
 Despite this course being my first exposure to JavaScript, I am finding that my experience with other programming languages is helping me pick this one up faster. Specifically, my time with C++ has allowed me to become more familiar with object-oriented programming, and my knowledge of Python has made the less restrictive object declarations feel less alien. Additionally, I have found that most, if not all, of the syntax commonly used when writing in JavaScript has been something I have already been exposed to.
