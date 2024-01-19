@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tigersAndGoats.jpg
+image: img/tigerAndGoats.jpg
 title: "Tigers and Goats"
 date: 2023-2024
 published: true
