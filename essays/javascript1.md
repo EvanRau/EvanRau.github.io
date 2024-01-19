@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflections on Javascript 1"
+title: "Reflections on a new programming language"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
