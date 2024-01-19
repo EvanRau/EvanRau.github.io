@@ -1,0 +1,16 @@
+---
+layout: project
+type: project
+image: img/Wordle.jpg
+title: "Animal Farm"
+date: 11-29-2022
+published: true
+labels:
+  - C++
+summary: "Animal Farm implements various C++ techniques to create a database of various animals."
+---
+
+@todo
+
+ 
+[Github Repo](https://github.com/EvanRau/296_Wordle)
