@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/AnimalFarm.png
 title: "Animal Farm"
-date: 11-29-2022
+date: 4-28-2023
 published: true
 labels:
   - C++
