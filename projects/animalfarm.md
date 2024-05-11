@@ -17,5 +17,6 @@ Included in this program is the ability to do the following:
 * Store those cats into a singular linked list and access their data at-will
 * Sort the linked list by the age of the addresses the cats are held on
 
+This project helped solidify my understanding of fundamental C++ functions and gave me more practice in working with object-oriented programs
  
 [Github Repo](https://github.com/EvanRau/Animal-Farm)
